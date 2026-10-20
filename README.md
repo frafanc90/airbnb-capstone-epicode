@@ -8,7 +8,7 @@ Progetto finale (capstone) del bootcamp **Data Analytics & AI di Epicode**.
 
 ![Overview del report](images/01_overview.png)
 
-🎥 **Video di presentazione (2 min):** [link al video](INSERIRE-LINK)
+🎥 **Video di presentazione (2 min):** [link al video](https://youtu.be/6nYdFk9Oc8U)
 
 ---
 
